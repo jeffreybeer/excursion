@@ -1,0 +1,30 @@
+body {background: black}
+
+h1  {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+    }
+ .cta
+    {text-align: center;
+    color: blue;
+    }
+ .video
+    {text-align: center}
+ p  {
+ 	text-align: center;
+ 	font-size: 21px;
+ 	color: gray;
+    }
+ .camp
+   {text-align: center}
+ a
+    {color: aquamarine;
+ 	font-size: 16px;}
+ #excursion
+    {text-align: right;
+ 	font-size: 21px;
+ 	color: gray;
+    }
